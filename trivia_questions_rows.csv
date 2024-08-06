@@ -1,0 +1,84 @@
+id,created_at,question,option_a,option_b,option_c,answer
+1,2024-08-03 00:57:42.74573+00,¿Cuál es la capital de Francia?,Berlín,Madrid,París,C
+2,2024-08-03 00:57:42.74573+00,¿Qué es el ADN?,Ácido desoxirribonucleico,Ácido ribonucleico,Proteína,A
+3,2024-08-03 00:57:42.74573+00,"¿Quién escribió ""Don Quijote""?",Miguel de Cervantes,Gabriel García Márquez,Pablo Neruda,A
+4,2024-08-03 00:57:42.74573+00,¿Cuál es el planeta más grande del sistema solar?,Júpiter,Saturno,Marte,A
+5,2024-08-03 00:57:42.74573+00,¿Cuál es el océano más grande?,Atlántico,Íntico,Pacífico,C
+6,2024-08-03 00:57:42.74573+00,¿Qué es la fotosíntesis?,Proceso de respiración,Proceso de conversión de luz en energía,Proceso de fermentación,B
+7,2024-08-03 00:57:42.74573+00,"¿Quién pintó ""La Mona Lisa""?",Vincent van Gogh,Leonardo da Vinci,Claude Monet,B
+8,2024-08-03 00:57:42.74573+00,¿Qué país tiene forma de bota?,España,Italia,Grecia,B
+9,2024-08-03 00:57:42.74573+00,¿Cuál es el continente más pequeño?,Asia,Europa,Oceanía,C
+10,2024-08-03 00:57:42.74573+00,"¿Qué elemento químico tiene el símbolo ""O""?",Oro,Oxígeno,Osmio,B
+11,2024-08-03 00:57:42.74573+00,¿En qué año llegó el hombre a la Luna?,1965,1969,1972,B
+12,2024-08-03 00:57:42.74573+00,¿Qué instrumento mide la temperatura?,Barómetro,Termómetro,Higrómetro,B
+13,2024-08-03 00:57:42.74573+00,¿Cuál es el río más largo del mundo?,Amazonas,Nilo,Yangtsé,B
+14,2024-08-03 00:57:42.74573+00,¿Quién descubrió América?,Cristóbal Colón,Ferdinand Magellan,Vasco da Gama,A
+15,2024-08-03 00:57:42.74573+00,¿Cuál es el idioma oficial de Brasil?,Español,Portugués,Inglés,B
+16,2024-08-03 00:57:42.74573+00,"¿Qué es el ""Big Bang""?",Una teoría de la evolución,Una explosión cósmica,Un nuevo elemento químico,B
+17,2024-08-03 00:57:42.74573+00,¿Cuál es el animal terrestre más rápido?,León,Cheetah,Elefante,B
+18,2024-08-03 00:57:42.74573+00,¿Qué gas respiramos principalmente?,Oxígeno,Dióxido de carbono,Nitrógeno,C
+19,2024-08-03 00:57:42.74573+00,¿Cuál es la moneda de Japón?,Won,Yuan,Yen,C
+20,2024-08-03 00:57:42.74573+00,"¿Quién es el autor de ""Harry Potter""?",J.K. Rowling,J.R.R. Tolkien,George R.R. Martin,A
+21,2024-08-03 00:57:42.74573+00,¿Cuál es el deporte más popular del mundo?,Fútbol,Baloncesto,Tenis,A
+22,2024-08-03 00:57:42.74573+00,¿Cuál es la capital de Canadá?,Vancouver,Toronto,Ottawa,C
+23,2024-08-03 00:57:42.74573+00,¿Qué parte del cuerpo humano produce insulina?,Hígado,Páncreas,Riñones,B
+24,2024-08-03 00:57:42.74573+00,¿Cuál es el país más grande del mundo por superficie?,China,Estados Unidos,Rusia,C
+25,2024-08-03 00:57:42.74573+00,¿Qué es un agujero negro?,Un agujero en el espacio,Un lugar donde la gravedad es tan fuerte que nada puede escapar,Un tipo de estrella,B
+26,2024-08-03 00:57:42.74573+00,"¿Quién pintó ""La última cena""?",Vincent van Gogh,Leonardo da Vinci,Claude Monet,B
+27,2024-08-03 00:57:42.74573+00,¿Qué continente está compuesto por 50 países?,África,Asia,Europa,A
+28,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre de la primera misión tripulada a la Luna?,Apollo 11,Apollo 12,Apollo 13,A
+29,2024-08-03 00:57:42.74573+00,¿En qué año comenzó la Primera Guerra Mundial?,1912,1914,1916,B
+30,2024-08-03 00:57:42.74573+00,¿Qué sustancia se encuentra en el centro de la Tierra?,Hierro y níquel,Oro y plata,Aluminio y cobre,A
+31,2024-08-03 00:57:42.74573+00,¿Cuál es el país con la mayor población?,India,China,Estados Unidos,B
+32,2024-08-03 00:57:42.74573+00,¿Qué lenguaje de programación fue creado por Guido van Rossum?,JavaScript,Python,Ruby,B
+33,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre de la galaxia en la que se encuentra la Tierra?,Andrómeda,Vía Láctea,Triángulo,B
+34,2024-08-03 00:57:42.74573+00,¿Qué país es conocido por sus tulipanes y molinos de viento?,Alemania,Bélgica,Países Bajos,C
+35,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre del proceso por el cual las plantas producen su propio alimento?,Respiración,Fotosíntesis,Digestión,B
+36,2024-08-03 00:57:42.74573+00,¿En qué continente se encuentra el desierto del Sahara?,Asia,África,Australia,B
+37,2024-08-03 00:57:42.74573+00,¿Cuál es el símbolo químico para el oro?,Au,Ag,Pb,A
+38,2024-08-03 00:57:42.74573+00,¿Cuál es el deporte nacional en Escocia?,Fútbol,Golf,Rugby,B
+39,2024-08-03 00:57:42.74573+00,¿Qué escritor británico es conocido por sus novelas de terror?,J.K. Rowling,Stephen King,H.P. Lovecraft,C
+40,2024-08-03 00:57:42.74573+00,¿Qué océano es el más grande del mundo?,Atlántico,Íntico,Pacífico,C
+41,2024-08-03 00:57:42.74573+00,¿Cuál es la capital de Suecia?,Oslo,Helsinki,Estocolmo,C
+42,2024-08-03 00:57:42.74573+00,¿Qué tipo de animal es un pingüino?,Mamífero,Pájaro,Reptil,B
+43,2024-08-03 00:57:42.74573+00,¿Cuál es el gas más abundante en la atmósfera terrestre?,Oxígeno,Dióxido de carbono,Nitrógeno,C
+44,2024-08-03 00:57:42.74573+00,¿En qué país se encuentra la ciudad antigua de Petra?,Jordania,Egipto,Irak,A
+45,2024-08-03 00:57:42.74573+00,¿Cuál es el símbolo químico para el sodio?,Na,S,So,A
+46,2024-08-03 00:57:42.74573+00,¿Qué famoso cuadro fue pintado por Leonardo da Vinci?,La última cena,El nacimiento de Venus,Guernica,A
+47,2024-08-03 00:57:42.74573+00,¿Qué órgano del cuerpo humano es responsable de bombear la sangre?,Cerebro,Corazón,Hígado,B
+48,2024-08-03 00:57:42.74573+00,¿En qué continente se encuentra el monte Kilimanjaro?,África,Asia,Sudamérica,A
+49,2024-08-03 00:57:42.74573+00,"¿Quién escribió ""1984""?",Aldous Huxley,George Orwell,Ray Bradbury,B
+50,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre del proceso por el cual las células se dividen?,Mitosis,Meiosis,Fisión,A
+51,2024-08-03 00:57:42.74573+00,¿Qué país es conocido por su sistema de fjordos?,Noruega,Suecia,Canadá,A
+52,2024-08-03 00:57:42.74573+00,"¿Qué planeta es conocido como el ""planeta rojo""?",Marte,Júpiter,Saturno,A
+53,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre del ave nacional de Estados Unidos?,Águila calva,Águila real,Halcon peregrino,A
+54,2024-08-03 00:57:42.74573+00,¿Qué ciudad es famosa por su Gran Muralla?,Pekín,Seúl,Tokio,A
+55,2024-08-03 00:57:42.74573+00,¿Cuál es la fórmula química para el dióxido de carbono?,CO,CO2,H2O,B
+56,2024-08-03 00:57:42.74573+00,¿Qué país es famoso por su comida sushi?,China,Japón,Tailandia,B
+57,2024-08-03 00:57:42.74573+00,¿Cuál es la capital de Canadá?,Toronto,Vancouver,Ottawa,C
+58,2024-08-03 00:57:42.74573+00,¿Qué famoso científico descubrió la penicilina?,Louis Pasteur,Alexander Fleming,Joseph Lister,B
+59,2024-08-03 00:57:42.74573+00,¿Qué continente tiene el desierto de Atacama?,América del Sur,África,Asia,A
+60,2024-08-03 00:57:42.74573+00,"¿Qué famoso pintor español pintó ""Las Meninas""?",Salvador Dalí,Francisco de Goya,Diego Velázquez,C
+61,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre del proceso por el cual las plantas liberan oxígeno?,Fotosíntesis,Respiración,Fermentación,A
+62,2024-08-03 00:57:42.74573+00,¿En qué país se encuentra el Machu Picchu?,Perú,Bolivia,Chile,A
+63,2024-08-03 00:57:42.74573+00,¿Qué elemento químico tiene el símbolo Cl?,Cloro,Carbono,Cobalto,A
+64,2024-08-03 00:57:42.74573+00,¿Qué planeta tiene los anillos más visibles desde la Tierra?,Saturno,Júpiter,Urano,A
+65,2024-08-03 00:57:42.74573+00,¿Cuál es el animal más grande del océano?,Ballena azul,Tiburón blanco,Orca,A
+66,2024-08-03 00:57:42.74573+00,"¿Qué famoso director de cine creó ""Star Wars""?",Steven Spielberg,George Lucas,James Cameron,B
+67,2024-08-03 00:57:42.74573+00,¿Cuál es el órgano del cuerpo humano que produce insulina?,Hígado,Riñón,Páncreas,C
+68,2024-08-03 00:57:42.74573+00,¿Qué famoso físico formuló la ecuación E=mc²?,Isaac Newton,Albert Einstein,Niels Bohr,B
+69,2024-08-03 00:57:42.74573+00,¿Qué país es famoso por sus ruinas mayas?,México,Perú,Colombia,A
+70,2024-08-03 00:57:42.74573+00,¿Qué es la fotosíntesis?,Proceso por el cual las plantas convierten luz en energía,Proceso de respiración,Proceso de fermentación,A
+71,2024-08-03 00:57:42.74573+00,¿Cuál es la capital de Argentina?,Buenos Aires,Santiago,Montevideo,A
+72,2024-08-03 00:57:42.74573+00,¿Qué es un volcán?,Una montaña con actividad sísmica,Una montaña que expulsa magma,Una montaña de nieve,B
+73,2024-08-03 00:57:42.74573+00,¿Cuál es la moneda oficial de Reino Unido?,Euro,Libra esterlina,Dólar,B
+74,2024-08-03 00:57:42.74573+00,"¿Qué famoso libro comienza con ""Era una noche oscura y tormentosa""?",Cumbres borrascosas,Drácula,Frankenstein,A
+75,2024-08-03 00:57:42.74573+00,¿Qué tipo de animal es un jaguar?,Reptil,Mamífero,Ave,B
+76,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre del río que atraviesa Egipto?,Éufrates,Nilo,Tigris,B
+77,2024-08-03 00:57:42.74573+00,¿Cuál es la principal función de los glóbulos rojos?,Llevar oxígeno a las células,Combatir infecciones,Coagular la sangre,A
+78,2024-08-03 00:57:42.74573+00,¿Qué es un ecosistema?,Un sistema económico,Una comunidad de organismos y su entorno,Una teoría biológica,B
+79,2024-08-03 00:57:42.74573+00,¿Cuál es el país conocido por su tradición de la Fiesta de la Tomatina?,España,México,Italia,A
+80,2024-08-03 00:57:42.74573+00,¿Cuál es el nombre del primer satélite artificial enviado al espacio?,Vostok 1,Sputnik 1,Apollo 11,B
+81,2024-08-03 00:57:42.74573+00,¿En qué país se encuentra el Gran Cañón?,México,Canadá,Estados Unidos,C
+82,2024-08-03 00:57:42.74573+00,¿Qué famoso físico desarrolló la teoría del campo unificado?,Albert Einstein,Richard Feynman,Stephen Hawking,A
+83,2024-08-03 00:57:42.74573+00,¿Qué tipo de energía es producida por el sol?,Energía nuclear,Energía eléctrica,Energía solar,C
